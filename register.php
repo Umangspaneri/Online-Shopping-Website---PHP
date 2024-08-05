@@ -1,4 +1,4 @@
-<!-- user register or signup page -->
+<!-- User Register or Signup Page -->
  <!DOCTYPE html>
  <html lang="en">
  <head>
